@@ -1,0 +1,4 @@
+Hello there
+how are you
+Hope you are doing good
+This is the first file for advanced git commands
